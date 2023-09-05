@@ -1,0 +1,12 @@
+{
+  "name": "aprendiendo-react-con-spotify",
+  "version": "1.0.0",
+  "description": "En este repositorio están la mayoria de ejercicios de los videos de React de Midulive, pero usando la api de spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

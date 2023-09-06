@@ -60,3 +60,19 @@
     font-size: 13px;
     color: #B3B3B3;
 }
+
+.sp-list-row-like-container{
+    display: flex;
+    width: 100%;
+    padding-inline: 2px;
+    justify-content: center;
+}
+
+.sp-list-row-like{
+    color: #1ED760;
+}
+
+.sp-list-row-like:hover{
+    color: #1ED760;
+    height: 1.1rem;
+}

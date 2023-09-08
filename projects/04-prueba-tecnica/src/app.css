@@ -1,0 +1,61 @@
+.card-cat{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: 5px solid #fff5ee;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.cc-header{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+}
+
+.cc-button-container{
+    display: flex;
+    align-items: center;
+}
+
+.cc-button{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 1rem;
+    width: 50px;
+    height: 50px;
+    color: black;
+}
+
+.cc-button:hover{
+    background-color: darkkhaki;
+    border-color: darkkhaki;
+}
+
+.cc-button:active{
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
+
+.cc-section{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    gap: 1rem;
+}
+
+.cc-text{
+    width: 350px;
+}
+
+.cc-img-container{
+    width: 100%;
+}
+
+.cc-img{
+    object-fit: contain;
+    width: 100%;
+    height: 300px;
+    object-position: 50% 50%;
+}
+
